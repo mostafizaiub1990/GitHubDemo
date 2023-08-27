@@ -1,6 +1,6 @@
 package day01Hw;
 
 public class AboutHim {
-	// something else
+	// something else 2
 
 }
